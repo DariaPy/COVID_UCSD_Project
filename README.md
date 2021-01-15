@@ -41,8 +41,16 @@ The problems I have encountered with the dataset were the following: lack of val
 
 I have formulated 3 research questions to answer with this project:
 
--- is there a significant correlation between cumulative cases of COVID-19 and cumulative deaths related to it?
+- is there a significant correlation between cumulative cases of COVID-19 and cumulative deaths related to it?
+- is there a significant correlation between maximum government response index and government healthcare expenditure in previous years?
+- is there strong positive correlation between confirmed COVID-19 cases and government response index over time?
 
--- is there a significant correlation between maximum government response index and government healthcare expenditure in previous years?
+# Hypothesis to check
 
--- is there strong positive correlation between confirmed COVID-19 cases and government response index over time?
+- yes, there is significant positive correlation between cases of COVID-19 and deaths;
+
+- no, strict response to COVID-19 in 2020 and better funding healthcare systems in 2019 are not significantly correlated;
+
+- no, correlation between confirmed cases and government response over time is strong.
+
+### Note: I explore indicators using Russia, Canada, USA, China and Brazil to describe and compare trends. I also plotted world’s average data to provide additional context to comparisons.
