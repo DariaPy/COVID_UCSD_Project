@@ -29,3 +29,20 @@ My goal was to write the code that would let me update the information on the fl
 I consider government policies indicators and pandemic statistics to be one of the most interesting datasets to research in mid 2020. I specifically use visualization technics that are different from JHU approach to their famous dashboard and suggest supplementary visual solutions. 
 
 I believe the ideas of this project could be valuable for many people like me who is concerned with pandemic issues or try to compare different governments approaches to this problem.
+
+
+# Data preparation and cleaning
+
+I described my approach to cleaning and preparation of the data in special paragraphs of each chapter of this project. Particular steps are always related to the structure and completeness degree of the data, as well as my goals in terms of using data: for calculating, for creating animated map, for plotting interactive line graphs, bubble graphs or sunbursts.
+
+The problems I have encountered with the dataset were the following: lack of values for particular countries or dates, excessive values that can not be plotted on map or can not be visible there even if plotted (for example, COVID cases on cruise ships "Diamond Princess and "MS Zaandam“, or in Vatican), wrong ISO-3 codes for the countries, outdated choropleth maps (for example, Kosovo could not be plotted, even though the shape is there, and I cleaned the dataset, and I fixed the ISO-3 codes).
+
+# Research Questions
+
+I have formulated 3 research questions to answer with this project:
+
+-- is there a significant correlation between cumulative cases of COVID-19 and cumulative deaths related to it?
+
+-- is there a significant correlation between maximum government response index and government healthcare expenditure in previous years?
+
+-- is there strong positive correlation between confirmed COVID-19 cases and government response index over time?
