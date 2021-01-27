@@ -51,6 +51,6 @@ I have formulated 3 research questions to answer with this project:
 
 - no, strict response to COVID-19 in 2020 and better funding healthcare systems in 2019 are not significantly correlated;
 
-- no, correlation between confirmed cases and government response over time is strong.
+- yes, correlation between confirmed cases and government response over time is strong.
 
 ### Note: I explore indicators using Russia, Canada, USA, China and Brazil to describe and compare trends. I also plotted world’s average data to provide additional context to comparisons.
